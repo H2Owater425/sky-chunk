@@ -1,0 +1,5 @@
+name: SkyChunk
+version: '${version}'
+main: kr.dhmo.skyChunk.SkyChunk
+api-version: 1.19
+load: STARTUP
